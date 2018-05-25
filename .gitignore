@@ -1,0 +1,11 @@
+.idea
+checkpoint
+*.tar.*
+*.p
+*.index
+*.meta
+*000*
+.ipynb_checkpoints/*
+cifar-10-batches-py/*
+__pycache__/*
+*.pyc
