@@ -1,4 +1,7 @@
 # cifar-10
+
+![Cifar-10](https://cdn-images-1.medium.com/max/356/1*QN007xhxgDTPBdNT0pnZ2g.png)
+
 Simple implementation of a Convolutional Neural Network used to classify objects in the well-known CIFAR-10 dataset, developed as part of the [Deep Learning Nanodegree Foundations by Udacity](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)..
 
 ## What you'll need
